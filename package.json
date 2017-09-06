@@ -1,0 +1,38 @@
+{
+  "name": "fancy-format-log",
+  "version": "1.0.0",
+  "description": "Log things, prefixed with a customized format timestamp",
+  "author": "LitoMore",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LitoMore/fancy-format-log.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "chalk-pipe": "^1.0.0",
+    "time-stamp": "^2.0.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "keywords": [
+    "console.log",
+    "log",
+    "logger",
+    "logging",
+    "pretty",
+    "timestamp",
+    "date-format"
+  ]
+}
