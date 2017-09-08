@@ -28,7 +28,6 @@ const options = {
 const f = format(options)
 
 f.log('a message')
-
 f.error('oh no!')
 ```
 
