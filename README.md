@@ -3,7 +3,7 @@
 [![](https://img.shields.io/travis/LitoMore/fancy-format-log/master.svg)](https://travis-ci.org/LitoMore/fancy-format-log)
 [![](https://img.shields.io/npm/v/fancy-format-log.svg)](https://www.npmjs.com/package/fancy-format-log)
 [![](https://img.shields.io/npm/l/fancy-format-log.svg)](https://github.com/LitoMore/fancy-format-log/blob/master/LICENSE)
-[![](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
 Log things, prefixed with a customized format timestamp
 
