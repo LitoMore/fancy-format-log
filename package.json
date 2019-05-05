@@ -17,7 +17,7 @@
     "index.js"
   ],
   "scripts": {
-    "test": "standard"
+    "test": "xo"
   },
   "dependencies": {
     "chalk-pipe": "^1.0.0",
