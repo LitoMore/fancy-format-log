@@ -20,7 +20,7 @@
     "test": "xo"
   },
   "dependencies": {
-    "chalk-pipe": "^1.0.0",
+    "chalk-pipe": "^2.0.0",
     "time-stamp": "^2.0.0"
   },
   "devDependencies": {
