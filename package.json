@@ -1,6 +1,6 @@
 {
   "name": "fancy-format-log",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "Log things, prefixed with a customized format timestamp",
   "author": "LitoMore",
   "repository": {
