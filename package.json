@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=8"
+    "node": ">=10"
   },
   "main": "index.js",
   "files": [
@@ -20,11 +20,11 @@
     "test": "xo"
   },
   "dependencies": {
-    "chalk-pipe": "^2.0.0",
+    "chalk-pipe": "^4.0.0",
     "time-stamp": "^2.0.0"
   },
   "devDependencies": {
-    "xo": "^0.24.0"
+    "xo": "^0.30.0"
   },
   "keywords": [
     "console.log",
